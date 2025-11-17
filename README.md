@@ -1,1 +1,0 @@
-# Nirwanagrid-Application
