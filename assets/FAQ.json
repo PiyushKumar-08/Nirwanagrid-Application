@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is NirwanaGrid?",
+    "answer": "NirwanaGrid is an IoT-based and AI-enabled smart energy device by NirwanaGrid Pvt Ltd. It provides real-time monitoring, energy analysis, appliance diagnostics, predictive fault detection, and automation to ensure safety and efficiency at home. It also tracks carbon emissions and shows how much has been saved through the device's optimized energy usage."
+  },
+  {
+    "question": "What reports does NirwanaGrid provide?",
+    "answer": "NirwanaGrid provides AI-powered energy analysis reports including 3-day, weekly, monthly, and yearly reports. These reports highlight total energy consumption, possible savings, and usage trends."
+  },
+  {
+    "question": "How does the subscription model work?",
+    "answer": "The NirwanaGrid device comes with 6 months of free access to all IoT and AI-based features. After that, you can continue using the system by subscribing to a monthly plan."
+  },
+  {
+    "question": "Can NirwanaGrid control appliances?",
+    "answer": "Yes, NirwanaGrid enables IoT-based appliance control both manually and automatically using the mobile app. Even in offline mode, appliances can be managed securely."
+  },
+  {
+    "question": "Does NirwanaGrid prevent accidents?",
+    "answer": "Yes, NirwanaGrid is AI-enabled and continuously monitors appliances for faults. It predicts failures in advance and can auto-cutoff power before mishappenings, ensuring safety at home."
+  },
+  {
+    "question": "Is NirwanaGrid AI-enabled?",
+    "answer": "Yes, NirwanaGrid uses AI to analyze appliance behavior, classify consumption patterns, and predict possible faults. This ensures smarter energy usage and enhanced safety."
+  },
+  {
+    "question": "Is NirwanaGrid IoT-based?",
+    "answer": "Yes, NirwanaGrid is IoT-based. It connects all your home appliances to a central device, allowing real-time monitoring, remote control, and automation through the NirwanaGrid app."
+  },
+  {
+    "question": "Can I change my appliance in the system?",
+    "answer": "Yes, you can update or change your appliance from inside the application. Go to 'My Dashboard', click on 'Change My Appliance', and update the details. You can also add a nickname for each appliance for easy management."
+  },
+  {
+    "question": "Does NirwanaGrid provide appliance nicknames?",
+    "answer": "Yes, while managing appliances inside the dashboard, you can add a nickname to each appliance for easier identification."
+  },
+  {
+    "question": "How can I contact NirwanaGrid support?",
+    "answer": "You can contact us through the 'Contact Us' section inside the NirwanaGrid app. We also have multiple official social accounts linked there for customer support. For more details, please check the app's Contact Us page."
+  },
+  {
+    "question": "Where can I find NirwanaGrid on social media?",
+    "answer": "NirwanaGrid has multiple official social accounts. You can access them directly from the 'Contact Us' section in the application."
+  },
+  {
+    "question": "What if I ask something unrelated to NirwanaGrid?",
+    "answer": "I can only assist with NirwanaGrid related queries. Please check the 'Contact Us' section in the app for more help."
+  },
+  {
+    "question": "Who are the directors of NirwanaGrid?",
+    "answer": "The company is led by Abhay Gupta (Founder & Managing Director) with expertise in IoT, Embedded Systems, and Smart Automation. Vikas Sagar is a Director with expertise in Finance. Additionally, Neeraj Mittal, Gopal Krishna Trivedi, and Vinay Pratap serve as mentors providing guidance in strategy, advisory, and technical support."
+  },
+  {
+    "question": "Who are the core team members of NirwanaGrid?",
+    "answer": "The core team includes Chitvan Chaudhary (Website & Cloud Management), Anushka Tiwari (Coding & Machine Learning), Sweta Sharma (Documentation & Outreach), Piyush Kumar (Application Development), and Devansh Singh (Data Collection & Policy Management)."
+  },
+  {
+    "question": "Can I assign a dummy or nickname to an appliance?",
+    "answer": "Yes, NirwanaGrid allows you to assign a dummy name or nickname to your appliances for easier identification. These names can be updated or changed anytime according to your preferences."
+  },
+  {
+    "question": "What roles do the mentors play in NirwanaGrid?",
+    "answer": "The mentors provide valuable support and guidance. Neeraj Mittal assists with Business Strategy, Gopal Krishna Trivedi is a Special Advisor, and Vinay Pratap offers technical guidance and advisory support."
+  },
+  {
+    "question": "What are the key responsibilities of the Founder & Managing Director?",
+    "answer": "Abhay Gupta, the Founder & Managing Director, focuses on vision, strategy, product development, and business growth for NirwanaGrid."
+  },
+  {
+    "question": "What expertise does Vikas Sagar bring as a Director?",
+    "answer": "Vikas Sagar contributes with his expertise in finance, providing strategic guidance and operational management to NirwanaGrid."
+  },
+  {
+    "question": "How can I reach NirwanaGrid support directly?",
+    "answer": "You can reach us at our website www.nirwanagrid.com or email us at support@nirwanagrid.com for direct support."
+  },
+  {
+    "question": "How does the NirwanaGrid subscription pack work?",
+    "answer": "NirwanaGrid provides the first 6 months of free access to all IoT and AI-based features. After this period, the subscription can be renewed every 6 months at a charge of ₹199 to continue using the application and its services."
+  },
+  {
+    "question": "NirwanaGrid kya hai?",
+    "answer": "NirwanaGrid ek IoT-based aur AI-enabled smart energy device hai jo NirwanaGrid Pvt Ltd ne banaya hai. Yeh real-time monitoring, energy analysis, appliance diagnostics, predictive fault detection aur automation provide karta hai taaki ghar me safety aur efficiency bani rahe. Yeh carbon emissions ko bhi track karta hai aur batata hai ki optimized energy usage se kitna save hua hai."
+  },
+  {
+    "question": "NirwanaGrid kaun kaun si reports deta hai?",
+    "answer": "NirwanaGrid AI-powered energy analysis reports deta hai jaise 3-day, weekly, monthly aur yearly reports. In reports me total energy consumption, possible savings aur usage trends highlight hote hain."
+  },
+  {
+    "question": "Subscription model kaise kaam karta hai?",
+    "answer": "NirwanaGrid device ke saath 6 months tak free access milta hai sab IoT aur AI features ka. Uske baad monthly plan subscribe karke system use kar sakte ho."
+  },
+  {
+    "question": "Kya NirwanaGrid appliances control kar sakta hai?",
+    "answer": "Haan, NirwanaGrid IoT-based appliance control enable karta hai manually aur automatically mobile app ke through. Offline mode me bhi appliances securely manage kiye ja sakte hain."
+  },
+  {
+    "question": "Kya NirwanaGrid accidents prevent karta hai?",
+    "answer": "Haan, NirwanaGrid AI-enabled hai aur appliances ko continuously monitor karta hai faults ke liye. Yeh pehle hi failures predict kar leta hai aur mishap hone se pehle auto-cutoff kar deta hai, taaki ghar me safety bani rahe."
+  },
+  {
+    "question": "Kya NirwanaGrid AI-enabled hai?",
+    "answer": "Haan, NirwanaGrid AI use karta hai appliance behavior analyze karne ke liye, consumption patterns classify karne ke liye aur possible faults predict karne ke liye. Isse smarter energy usage aur safety dono improve hote hain."
+  },
+  {
+    "question": "Kya NirwanaGrid IoT-based hai?",
+    "answer": "Haan, NirwanaGrid IoT-based hai. Yeh tumhare saare home appliances ko ek central device se connect karta hai, jisse real-time monitoring, remote control aur automation NirwanaGrid app se ho jata hai."
+  },
+  {
+    "question": "Kya main apna appliance system me change kar sakta hoon?",
+    "answer": "Haan, tum application ke andar jaake apna appliance update/change kar sakte ho. 'My Dashboard' me jao, 'Change My Appliance' par click karo aur details update kar do. Har appliance ko nickname bhi de sakte ho easy management ke liye."
+  },
+  {
+    "question": "Kya NirwanaGrid appliance nicknames deta hai?",
+    "answer": "Haan, dashboard me appliances manage karte waqt tum har appliance ko nickname de sakte ho taaki easily identify ho sake."
+  },
+  {
+    "question": "Main NirwanaGrid support se kaise contact kar sakta hoon?",
+    "answer": "App ke andar 'Contact Us' section me jaake tum hume contact kar sakte ho. Wahan official social accounts bhi linked hain customer support ke liye. Zyada details ke liye app ka Contact Us page check karo."
+  },
+  {
+    "question": "NirwanaGrid social media par kahan milega?",
+    "answer": "NirwanaGrid ke multiple official social accounts hain. Tum unhe directly application ke 'Contact Us' section se access kar sakte ho."
+  },
+  {
+    "question": "Agar main NirwanaGrid se unrelated kuch poochun to?",
+    "answer": "Main sirf NirwanaGrid related queries me help kar sakta hoon. Extra help ke liye app ke 'Contact Us' section ko check karo."
+  },
+  {
+    "question": "NirwanaGrid ke directors kaun hain?",
+    "answer": "Company ko Abhay Gupta (Founder & Managing Director) lead karte hain jinhe IoT, Embedded Systems aur Smart Automation ka expertise hai. Vikas Sagar Director hain finance expertise ke saath. Saath hi Neeraj Mittal, Gopal Krishna Trivedi aur Vinay Pratap mentors ke taur par strategy, advisory aur technical support dete hain."
+  },
+  {
+    "question": "NirwanaGrid ki core team me kaun hain?",
+    "answer": "Core team members hain: Chitvan Chaudhary (Website & Cloud Management), Anushka Tiwari (Coding & Machine Learning), Sweta Sharma (Documentation & Outreach), Piyush Kumar (Application Development), aur Devansh Singh (Data Collection & Policy Management)."
+  },
+  {
+    "question": "Kya main appliance ko dummy name ya nickname assign kar sakta hoon?",
+    "answer": "Haan, NirwanaGrid tumhe option deta hai appliances ko dummy name ya nickname dene ka easy identification ke liye. Yeh names tum kabhi bhi update/change kar sakte ho."
+  },
+  {
+    "question": "Mentors NirwanaGrid me kya role play karte hain?",
+    "answer": "Mentors valuable support aur guidance dete hain. Neeraj Mittal Business Strategy me help karte hain, Gopal Krishna Trivedi Special Advisor hain aur Vinay Pratap technical guidance aur advisory dete hain."
+  },
+  {
+    "question": "Founder & Managing Director ki key responsibilities kya hain?",
+    "answer": "Abhay Gupta, Founder & Managing Director, vision, strategy, product development aur business growth par focus karte hain."
+  },
+  {
+    "question": "Director ke roop me Vikas Sagar ka expertise kya hai?",
+    "answer": "Vikas Sagar finance me apna expertise contribute karte hain aur NirwanaGrid ko strategic guidance aur operational management dete hain."
+  },
+  {
+    "question": "Main directly NirwanaGrid support se kaise reach kar sakta hoon?",
+    "answer": "Tum hume website www.nirwanagrid.com par ya email support@nirwanagrid.com par contact kar sakte ho direct support ke liye."
+  },
+  {
+    "question": "NirwanaGrid subscription pack kaise kaam karta hai?",
+    "answer": "NirwanaGrid first 6 months tak free access deta hai sab IoT aur AI features ka. Uske baad har 6 months me ₹199 charge karke subscription renew karna padta hai taaki application aur services use kar sako."
+  },
+  {
+    "question": "NirwanaGrid क्या है?",
+    "answer": "NirwanaGrid एक IoT-आधारित और AI-सक्षम स्मार्ट ऊर्जा उपकरण है जिसे NirwanaGrid Pvt Ltd ने बनाया है। यह रीयल-टाइम मॉनिटरिंग, ऊर्जा विश्लेषण, उपकरण डायग्नोस्टिक्स, प्रेडिक्टिव फॉल्ट डिटेक्शन और ऑटोमेशन प्रदान करता है ताकि घर में सुरक्षा और दक्षता बनी रहे। यह कार्बन उत्सर्जन को भी ट्रैक करता है और बताता है कि अनुकूलित ऊर्जा उपयोग से कितना बचत हुआ है।"
+  },
+  {
+    "question": "NirwanaGrid कौन-कौन सी रिपोर्ट प्रदान करता है?",
+    "answer": "NirwanaGrid AI-संचालित ऊर्जा विश्लेषण रिपोर्ट प्रदान करता है जैसे 3-दिन, साप्ताहिक, मासिक और वार्षिक रिपोर्ट। इन रिपोर्ट्स में कुल ऊर्जा खपत, संभावित बचत और उपयोग पैटर्न हाइलाइट होते हैं।"
+  },
+  {
+    "question": "सब्सक्रिप्शन मॉडल कैसे काम करता है?",
+    "answer": "NirwanaGrid डिवाइस के साथ 6 महीने तक मुफ्त एक्सेस मिलता है सभी IoT और AI फीचर्स का। उसके बाद मासिक प्लान सब्सक्राइब करके सिस्टम का उपयोग किया जा सकता है।"
+  },
+  {
+    "question": "क्या NirwanaGrid उपकरणों को नियंत्रित कर सकता है?",
+    "answer": "हाँ, NirwanaGrid IoT-आधारित उपकरण नियंत्रण सक्षम करता है, मैन्युअल और ऑटोमैटिक दोनों तरह से मोबाइल ऐप के माध्यम से। ऑफ़लाइन मोड में भी उपकरणों को सुरक्षित रूप से प्रबंधित किया जा सकता है।"
+  },
+  {
+    "question": "क्या NirwanaGrid दुर्घटनाओं को रोकता है?",
+    "answer": "हाँ, NirwanaGrid AI-सक्षम है और उपकरणों को लगातार फॉल्ट के लिए मॉनिटर करता है। यह पहले से ही खराबियों का अनुमान लगा लेता है और हादसा होने से पहले बिजली को काट सकता है, जिससे घर में सुरक्षा बनी रहती है।"
+  },
+  {
+    "question": "क्या NirwanaGrid AI-सक्षम है?",
+    "answer": "हाँ, NirwanaGrid AI का उपयोग करता है उपकरणों के व्यवहार का विश्लेषण करने, खपत पैटर्न को वर्गीकृत करने और संभावित खराबियों का अनुमान लगाने के लिए। इससे स्मार्ट ऊर्जा उपयोग और सुरक्षा दोनों में सुधार होता है।"
+  },
+  {
+    "question": "क्या NirwanaGrid IoT-आधारित है?",
+    "answer": "हाँ, NirwanaGrid IoT-आधारित है। यह आपके सभी घरेलू उपकरणों को एक केंद्रीय डिवाइस से जोड़ता है, जिससे रीयल-टाइम मॉनिटरिंग, रिमोट कंट्रोल और ऑटोमेशन NirwanaGrid ऐप से संभव होता है।"
+  },
+  {
+    "question": "क्या मैं सिस्टम में अपना उपकरण बदल सकता हूँ?",
+    "answer": "हाँ, आप एप्लिकेशन के अंदर जाकर अपना उपकरण अपडेट/बदल सकते हैं। 'My Dashboard' में जाएं, 'Change My Appliance' पर क्लिक करें और विवरण अपडेट कर दें। हर उपकरण को आसान प्रबंधन के लिए उपनाम भी दिया जा सकता है।"
+  },
+  {
+    "question": "क्या NirwanaGrid उपकरणों के लिए उपनाम प्रदान करता है?",
+    "answer": "हाँ, डैशबोर्ड में उपकरणों को प्रबंधित करते समय आप प्रत्येक उपकरण को उपनाम दे सकते हैं ताकि आसानी से पहचान हो सके।"
+  },
+  {
+    "question": "मैं NirwanaGrid सपोर्ट से कैसे संपर्क कर सकता हूँ?",
+    "answer": "ऐप के अंदर 'Contact Us' सेक्शन में जाकर आप हमसे संपर्क कर सकते हैं। वहाँ आधिकारिक सोशल अकाउंट्स भी लिंक किए गए हैं कस्टमर सपोर्ट के लिए। अधिक जानकारी के लिए ऐप का Contact Us पेज देखें।"
+  },
+  {
+    "question": "NirwanaGrid सोशल मीडिया पर कहाँ मिलेगा?",
+    "answer": "NirwanaGrid के कई आधिकारिक सोशल अकाउंट्स हैं। आप उन्हें सीधे एप्लिकेशन के 'Contact Us' सेक्शन से एक्सेस कर सकते हैं।"
+  },
+  {
+    "question": "अगर मैं NirwanaGrid से असंबंधित कुछ पूछूँ तो?",
+    "answer": "मैं केवल NirwanaGrid से संबंधित प्रश्नों में मदद कर सकता हूँ। अतिरिक्त मदद के लिए ऐप के 'Contact Us' सेक्शन को देखें।"
+  },
+  {
+    "question": "NirwanaGrid के निदेशक कौन हैं?",
+    "answer": "कंपनी का नेतृत्व Abhay Gupta (Founder & Managing Director) कर रहे हैं जिन्हें IoT, Embedded Systems और Smart Automation में विशेषज्ञता है। Vikas Sagar निदेशक हैं वित्त विशेषज्ञता के साथ। साथ ही Neeraj Mittal, Gopal Krishna Trivedi और Vinay Pratap मेंटर्स के रूप में रणनीति, सलाह और तकनीकी समर्थन प्रदान करते हैं।"
+  },
+  {
+    "question": "NirwanaGrid की मुख्य टीम के सदस्य कौन हैं?",
+    "answer": "मुख्य टीम में शामिल हैं: Chitvan Chaudhary (Website & Cloud Management), Anushka Tiwari (Coding & Machine Learning), Sweta Sharma (Documentation & Outreach), Piyush Kumar (Application Development), और Devansh Singh (Data Collection & Policy Management)।"
+  },
+  {
+    "question": "क्या मैं उपकरण को डमी नाम या उपनाम दे सकता हूँ?",
+    "answer": "हाँ, NirwanaGrid आपको उपकरणों को डमी नाम या उपनाम देने का विकल्प देता है ताकि आसानी से पहचान की जा सके। इन नामों को कभी भी अपडेट/बदला जा सकता है।"
+  },
+  {
+    "question": "NirwanaGrid में मेंटर्स क्या भूमिका निभाते हैं?",
+    "answer": "मेंटर्स मूल्यवान सहयोग और मार्गदर्शन प्रदान करते हैं। Neeraj Mittal व्यापार रणनीति में मदद करते हैं, Gopal Krishna Trivedi विशेष सलाहकार हैं और Vinay Pratap तकनीकी मार्गदर्शन और सलाह देते हैं।"
+  },
+  {
+    "question": "Founder & Managing Director की मुख्य ज़िम्मेदारियाँ क्या हैं?",
+    "answer": "Abhay Gupta, Founder & Managing Director, दृष्टि, रणनीति, उत्पाद विकास और व्यवसाय वृद्धि पर ध्यान केंद्रित करते हैं।"
+  },
+  {
+    "question": "निदेशक के रूप में Vikas Sagar कौन-सी विशेषज्ञता लाते हैं?",
+    "answer": "Vikas Sagar वित्त में अपनी विशेषज्ञता योगदान करते हैं और NirwanaGrid को रणनीतिक मार्गदर्शन और संचालन प्रबंधन प्रदान करते हैं।"
+  },
+  {
+    "question": "मैं सीधे NirwanaGrid सपोर्ट से कैसे संपर्क कर सकता हूँ?",
+    "answer": "आप हमें वेबसाइट www.nirwanagrid.com पर या ईमेल support@nirwanagrid.com पर संपर्क कर सकते हैं सीधा समर्थन पाने के लिए।"
+  },
+  {
+    "question": "NirwanaGrid सब्सक्रिप्शन पैक कैसे काम करता है?",
+    "answer": "NirwanaGrid पहले 6 महीने तक मुफ्त एक्सेस देता है सभी IoT और AI फीचर्स का। उसके बाद हर 6 महीने में ₹199 शुल्क देकर सब्सक्रिप्शन को रिन्यू करना पड़ता है ताकि एप्लिकेशन और सेवाओं का उपयोग जारी रख सकें।"
+  }
+]

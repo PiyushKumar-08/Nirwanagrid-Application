@@ -1,0 +1,68 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "NirwanagridIdentityPool",
+    "allowUnauthenticatedIdentities": false,
+    "resourceNameTruncated": "nirwanc2a793d0",
+    "userPoolName": "NirwanagridUserPool",
+    "autoVerifiedAttributes": [
+      "email"
+    ],
+    "mfaConfiguration": "OPTIONAL",
+    "mfaTypes": [
+      "TOTP"
+    ],
+    "smsAuthenticationMessage": "Your authentication code is {####}",
+    "smsVerificationMessage": "Your verification code is {####}",
+    "emailVerificationSubject": "Your verification code",
+    "emailVerificationMessage": "Your verification code is {####}",
+    "defaultPasswordPolicy": false,
+    "passwordPolicyMinLength": 8,
+    "passwordPolicyCharacters": [],
+    "requiredAttributes": [
+      "email",
+      "name",
+      "phone_number",
+      "picture"
+    ],
+    "aliasAttributes": [],
+    "userpoolClientGenerateSecret": false,
+    "userpoolClientRefreshTokenValidity": "28",
+    "userpoolClientWriteAttributes": [
+      "email"
+    ],
+    "userpoolClientReadAttributes": [
+      "email"
+    ],
+    "userpoolClientLambdaRole": "Nirwanc2a793d0_userpoolclient_lambda_role",
+    "userpoolClientSetAttributes": false,
+    "sharedId": "c2a793d0",
+    "resourceName": "NirwanaGridAuth",
+    "authSelections": "identityPoolAndUserPool",
+    "useDefault": "manual",
+    "thirdPartyAuth": true,
+    "authProviders": [
+      "accounts.google.com"
+    ],
+    "usernameAttributes": [
+      "email, phone_number"
+    ],
+    "userPoolGroups": false,
+    "adminQueries": false,
+    "triggers": {},
+    "hostedUI": true,
+    "hostedUIDomainName": "nirwanagridauth",
+    "authProvidersUserPool": [
+      "Google"
+    ],
+    "audiences": [
+      "139808255997-48jbo4g96517bm9cuij24lm2cipnsgba.apps.googleusercontent.com"
+    ],
+    "hostedUIProviderMeta": "[{\"ProviderName\":\"Google\",\"authorize_scopes\":\"openid email profile\",\"AttributeMapping\":{\"email\":\"email\",\"name\":\"name\",\"phone_number\":\"phoneNumbers\",\"picture\":\"picture\",\"username\":\"sub\"}}]",
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://nirwanagrid.amplifyapp.com/\"],\"LogoutURLs\":[\"https://nirwanagrid.amplifyapp.com/\"]}",
+    "userPoolGroupList": [],
+    "serviceName": "Cognito",
+    "usernameCaseSensitive": false,
+    "useEnabledMfas": true
+  }
+}
